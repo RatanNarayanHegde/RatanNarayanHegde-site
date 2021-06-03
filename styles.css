@@ -118,3 +118,7 @@ a {
 ul {
   padding-inline-start: 0px;
 }
+
+article {
+  margin-bottom: 2rem;
+}
