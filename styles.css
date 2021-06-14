@@ -122,3 +122,9 @@ ul {
 article {
   margin-bottom: 2rem;
 }
+
+.blog-content {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
